@@ -57,5 +57,5 @@ api-gateway:
     type: LoadBalancer
 spec:
   syncPolicy:
-    automated: {}
+    automated:
       enabled: true
