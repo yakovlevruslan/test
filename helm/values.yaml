@@ -58,3 +58,4 @@ api-gateway:
 spec:
   syncPolicy:
     automated: {}
+      enabled: true
